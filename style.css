@@ -1,0 +1,155 @@
+* {
+    CONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  body {
+      font-family: SolaimanLipiNormal;
+      font-size: 15px;
+      line-height: 150%;
+  }
+
+  
+  @font-face {
+      font-family: SolaimanLipiNormal;
+      src: url('fonts/solaimanlipi_20-04-07.eot');
+      src: url('fonts/solaimanlipi_20-04-07.eot')format('embedded-opentype'), url('fonts/solaimanlipi_20-04-07.woff') format('woff'), url('fonts/solaimanlipi_20-04-07.ttf') format('truetype'), url('fonts/solaimanlipi_20-04-07.svg#SolaimanLipiNormal') format('svg');
+  }
+  
+main {
+    background: white;
+    font-size: 14px;
+    color: black;
+    width: 1200px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.header {
+    margin: auto;
+    height: auto;
+}
+
+.drop-down-menu,
+.date-logo-search{
+      width: 1400px;
+      margin: auto;
+}
+
+.drop-dpwn-menu-part-2{
+      width: 900px;
+      margin: auto;
+
+}
+
+.drop-dewn-background {
+    background-color: #696969	;
+}
+
+.drop-down-menu>nav>ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 15px;
+
+}
+
+.drop-down-menu>nav>ul>li>a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.drop-dpwn-menu-part-2>nav>ul>li>a:hover,
+.drop-down-menu>nav>ul>li>a:hover {
+    color: red;
+    transition: all 0.5s;
+}
+
+.drop-down-menu>nav>ul>li {
+    text-align: center;
+}
+
+.main-logo img {
+    max-width: 100%;
+}
+
+.date-logo-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.search-menu,
+.date {
+    width: 30%;
+}
+
+.main-logo {
+    width: 30%;
+}
+
+
+i.fa-sharp.fa-solid.fa-list-timeline {
+    color: black;
+    font-size: 20px;
+}
+
+.menu-box-right {
+  color: black;
+}
+
+.search-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-option>a {
+    color: black;
+}
+
+.three-line {
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+i.fa-solid.fa-magnifying-glass {
+    padding-left: 330px;
+    font-size: 28px;
+}
+
+.drop-dpwn-menu-part-2>nav>ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.drop-dpwn-menu-part-2>nav>ul>li>a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+
+.drop-dpwn-menu-part-2>nav>ul {
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.drop-dpwn-menu-part-2-underline {
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
