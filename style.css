@@ -311,3 +311,98 @@ a {}
     border-bottom: none;
 }
 
+
+
+.footer-main-box {
+    width: 1400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.footer-logo {
+    width: 25%;
+}
+
+.footer-logo img {
+    max-width: 100%;
+}
+
+.footer-apps-store {
+    width: 40%;
+}
+
+.footer-apps-store {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apple-store {
+    width: 45%;
+}
+
+
+.google-play {
+    width: 45%;
+}
+
+.apple-store {
+    display: flex;
+    justify-content: space-between;
+}
+
+.google-play {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apple-img img {
+    max-width: 100%;
+}
+
+.google-app img {
+    max-width: 100%;
+}
+
+.footer-text {
+    width: 1400px;
+    margin: auto;
+}
+
+.footer-text>nav>ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    list-style: none;
+}
+
+.footer-text>nav>ul>li>a {
+    text-decoration: none;
+    color: black;
+}
+
+.google-text>a,
+.apple-text>a {
+    text-decoration: none;
+    color: black;
+}
+
+.apple-img {
+    margin-right: 20px;
+}
+
+
+.google-app {
+    margin-right: 20px;
+}
+
+.footer-main-box {
+    border-top: 1px solid gray;
+    padding-top: 47px;
+}
+
+.footer-text {
+    border-bottom: 2px solid black;
+}
