@@ -527,3 +527,11 @@ a {}
     width: 1052px;
 }
 
+/* .justify-content-end {
+    justify-content: end;
+} */
+
+.aro-box.m-top-25.w-1052.float-right {
+    display: flex;
+    justify-content: end;
+}
