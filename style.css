@@ -445,6 +445,10 @@ a {}
     padding-top: 20px;
 }
 
+.m-top-40 {
+    margin-top: 40px;
+}
+
 .p-bottom {
     padding-bottom: 20px;
 }
@@ -534,4 +538,24 @@ a {}
 .aro-box.m-top-25.w-1052.float-right {
     display: flex;
     justify-content: end;
+}
+
+.width-60 {
+    width: 60%;
+}
+
+.width-30 {
+    width: 30%;
+}
+
+.colum-main-box {
+    width: 30%;
+}
+
+.aro-khabor-main-box {
+    width: 60%;
+}
+
+.maxwith-100 {
+    max-width: 100%;
 }
