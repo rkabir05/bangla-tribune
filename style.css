@@ -141,8 +141,6 @@ i.fa-solid.fa-magnifying-glass {
 
 }
 
-
-
 .drop-dpwn-menu-part-2>nav>ul {
     list-style: none;
     padding-top: 10px;
@@ -154,15 +152,14 @@ i.fa-solid.fa-magnifying-glass {
     border-bottom: 2px solid gray;
 }
 
-a {}
-
 .main-news {
     display: flex;
     justify-content: left;
     align-items: center;
-    margin-top: 100px;
     margin-bottom: 20px;
-}.main-news-text {
+}
+
+.main-news-text {
     padding-right: 10px;
 }
 
@@ -623,4 +620,70 @@ a {}
 
 .colum-pic img {
     border-radius: 50%;
+}
+
+.width-31-percent {
+    width: 31%;
+}
+
+.width-32-percent {
+    width: 32%;
+}
+
+.width-30-percent {
+    width: 30%;
+}
+
+.width-75-percent {
+    width: 70%;
+}
+
+.border-top-2px-gray {
+    border-top: 2px solid gray;
+}
+
+.border-bottom-2px-gray {
+    border-bottom: 2px solid gray;
+}
+
+.border-right-2px-gray {
+    border-right: 2px solid gray;
+}
+
+.padding-right-22px {
+    padding-right: 22px;
+}
+
+.padding-bottom-22px {
+    padding-bottom: 22px;
+}
+
+.padding-top-20px {
+    padding-top: 20px;
+}
+
+
+.padding-right-15px {
+    padding-right: 15px;
+}
+
+.m-bottom-35 {
+    margin-bottom: 35px;
+}
+
+.width-18-percent {
+    width: 19%;
+}
+
+.width-17-percent {
+    width: 18%;
+}
+
+.border.padding-bottom-22px.w-1400.padding-bottom-22px {
+    /* border-bottom: 2px solid gray; */
+    padding-bottom: 20px;
+}
+
+.aro-box.m-top-25.w-1400.d-flex.justify-content-end {
+    justify-content: end;
 }
