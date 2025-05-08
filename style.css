@@ -583,6 +583,21 @@ i.fa-solid.fa-magnifying-glass {
     padding: 5px 15px;
 }
 
+.width-21-percent {
+    width: 21%;
+}
+
+.width-22-percent {
+    width: 22%;
+}
+
+.width-23-percent {
+    width: 23%;
+}
+
+.width-24-percent {
+    width: 24%;
+}
 
 
 .color-white {
@@ -658,10 +673,29 @@ i.fa-solid.fa-magnifying-glass {
     padding-bottom: 22px;
 }
 
+.paddiing-bottom-15px {
+    padding-bottom: 15px;
+}
+
+.paddiing-bottom-18px {
+    padding-bottom: 18px;
+}
+
+.paddiing-bottom-10-px {
+    padding-bottom: 10px;
+}
+
 .padding-top-20px {
     padding-top: 20px;
 }
 
+.width-20-percent {
+    width: 20%;
+}
+
+.width-65-percent {
+    width: 65%;
+}
 
 .padding-right-15px {
     padding-right: 15px;
@@ -685,5 +719,18 @@ i.fa-solid.fa-magnifying-glass {
 }
 
 .aro-box.m-top-25.w-1400.d-flex.justify-content-end {
+    justify-content: end;
+}
+
+.four-single-pic-head.d-flex.justify-content-between.border-bottom-2px-gray.paddiing-bottom-15-px {
+    padding: 15px 0;
+}
+
+.four-lead-pic-head.border-bottom-2px-gray.paddiing-bottom-15-px {
+    padding-bottom: 20px;
+}
+
+.aro-box.width-100-percent.d-flex.justify-content-end.m-top-25.m-bottom-25 {
+    display: flex;
     justify-content: end;
 }
