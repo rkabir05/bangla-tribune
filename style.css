@@ -510,11 +510,23 @@ i.fa-solid.fa-magnifying-glass {
 }
 
 .border-redius-40 {
-    border-radius: 20%;
+    border-radius: 40%;
 }
 
 .border-redius-50 {
     border-radius: 50%;
+}
+
+.border-redius-20 {
+    border-radius: 20%;
+}
+
+.border-redius-30 {
+    border-radius: 30%;
+}
+
+.border-redius-10 {
+    border-radius: 10%;
 }
 
 .text-decoration-none {
@@ -733,4 +745,66 @@ i.fa-solid.fa-magnifying-glass {
 .aro-box.width-100-percent.d-flex.justify-content-end.m-top-25.m-bottom-25 {
     display: flex;
     justify-content: end;
+}
+
+.justify-content-left {
+    justify-content: left;
+}
+
+.font-size-18px {
+    font-size: 18px;
+}
+
+.font-size-24px {
+    font-size: 24px;
+}
+
+.play-right>nav>ul>li>a:hover {
+    background: red;
+    transition: all 0.5s;
+}
+
+.margin-left-10px {
+    margin-left: 10px;
+}
+
+.margin-left-20px {
+    margin-left: 20px;
+}
+.m-top-10px {
+    margin-top: 10px;
+}
+
+.m-bottom-10px {
+    margin-bottom: 10px;
+}
+
+:hover {
+    color: red;
+    transition: all 0.5s;
+}
+
+.a:hover {
+    color: red;
+    transition: all 0.5s;
+}
+
+.width-50-percent {
+    width: 50%;
+}
+
+.play-three-box-lead img {
+    max-width: 100%;
+}
+
+.m-top-10px {
+    margin-top: 10px;
+}
+
+.m-bottom-10px {
+    margin-bottom: 10px;
+}
+
+.width-45-percent {
+    width: 45%;
 }
