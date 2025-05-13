@@ -963,6 +963,18 @@ i.fa-solid.fa-magnifying-glass {
     margin-bottom: 15px;
 }
 
+.border-left-2px-gray {
+    border-left: 2px solid gray;
+}
+
+.paddiing-left-22px {
+    padding-left: 22px;
+}
+
+.width-25-percent {
+    width: 25%;
+}
+
 .width-80-percent {
     width: 80%;
 }
