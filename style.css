@@ -994,3 +994,7 @@ i.fa-solid.fa-magnifying-glass {
 .font-size-20px {
     font-size: 20px;
 }
+
+.aro-box.width-100-percent.d-flex.justify-content-end.m-top-25.m-bottom-25 {
+    padding-right: 20px;
+}
