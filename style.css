@@ -511,7 +511,7 @@ i.fa-solid.fa-magnifying-glass {
 }
 
 .border-redius-40 {
-    border-radius: 40%;
+    border-radius: 15%;
 }
 
 .border-redius-50 {
@@ -997,4 +997,22 @@ i.fa-solid.fa-magnifying-glass {
 
 .aro-box.width-100-percent.d-flex.justify-content-end.m-top-25.m-bottom-25 {
     padding-right: 20px;
+}
+
+.four-lead-head a:hover,
+.single-head a:hover,
+.aro-box a:hover {
+    color: red;
+}
+
+.transition-all {
+    transition: 0.5s all ease-in-out;
+}
+
+.color-red {
+    color: red;
+}
+
+.justify-content-spacebetween-left {
+    justify-content: space-evenly;
 }
